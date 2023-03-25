@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - :mortar_board: I graduated from McGill University with a Bachelor of Science in Mathematics. 
 
-- 🔭 I am currently completing a Master of Science in Artifical Intelligence at CentraleSupelec.
+- 📚 I am currently completing a Master of Science in Artifical Intelligence at CentraleSupelec.
 
 - ⚡ Fun fact: I love travelling and Formula 1 
 ---
