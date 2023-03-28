@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 #### About me:
-- :woman_technologist: I code in Python for AI and Data Science projects.
+- :woman_technologist: I code in Python for AI and Data Science projects, with a particular interest in medical applications. 
 
 - :mortar_board: I graduated from McGill University with a Bachelor of Science in Mathematics. 
 
